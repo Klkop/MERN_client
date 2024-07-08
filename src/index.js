@@ -10,7 +10,7 @@ root.render(
   <React.StrictMode>
     <Router>
       <Navbar />
-      <p>hema</p>
+      <p>hema hello</p>
       <Routes>
         <Route path="/about" element={<h1>About</h1>} />
         <Route path="/register" element={<Register />} />
